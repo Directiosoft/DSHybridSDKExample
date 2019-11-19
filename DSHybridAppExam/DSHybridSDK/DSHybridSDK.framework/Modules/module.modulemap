@@ -1,0 +1,6 @@
+framework module DSHybridSDK {
+  umbrella header "DSHybridSDK.h"
+
+  export *
+  module * { export * }
+}

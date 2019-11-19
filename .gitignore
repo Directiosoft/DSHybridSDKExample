@@ -61,3 +61,7 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+*.pbxproj
+*.pbxproj
+*.xcworkspacedata
+DSHybridAppExam/DSHybridAppExam.xcodeproj/project.xcworkspace/contents.xcworkspacedata
